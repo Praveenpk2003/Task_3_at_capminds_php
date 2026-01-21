@@ -124,5 +124,6 @@ Ensure trainees do not skip namespaces
 Ensure constructors are actually used
 Watch for misuse of include vs require_once
 Emphasize real-world folder structure
+<img width="2532" height="1255" alt="image" src="https://github.com/user-attachments/assets/e92294a9-1e36-465e-b662-ed3a763a49cd" />
 
 
